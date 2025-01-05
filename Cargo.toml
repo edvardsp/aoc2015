@@ -30,6 +30,7 @@ ndarray = "0.16.1"
 pico-args = "0.5.0"
 rayon = "1.10.0"
 regex = "1.11.1"
+serde_json = "1.0.134"
 tinyjson = "2.5.1"
 
 # Solution dependencies
